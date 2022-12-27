@@ -86,6 +86,4 @@ All pages except for the login and signup page can be accessed via the menu on t
 
 ![ER Diagram](./images/er_diagram.png)
 
-## Teaser (MS3)
 
-![Teaser](./images/teaser.png)
